@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <Card player={X} />
+     <Card player='' />
     </>
   )
 }
